@@ -1,4 +1,4 @@
-# DownSort
+# Botón-organizador
 
 **Botón-organizador** es una pequeña aplicación de escritorio que permite organizar automáticamente el contenido de la carpeta de Descargas mediante un solo botón.
 
