@@ -1,29 +1,27 @@
-## Getting Started
+# DownSort
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Botón-organizador** es una pequeña aplicación de escritorio que permite organizar automáticamente el contenido de la carpeta de Descargas mediante un solo botón.
 
-## Folder Structure
+Con un simple clic, la aplicación clasifica los archivos en cuatro carpetas diferentes:
 
-The workspace contains two folders by default, where:
+- **Documentos:** archivos PDF, Word, Excel y otros documentos.
+- **Imágenes:** fotografías y archivos de imagen.
+- **Música:** archivos de audio y música.
+- **Otros:** cualquier archivo que no pertenezca a las categorías anteriores.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Características
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Organización automática de archivos.
+- Clasificación en cuatro categorías.
+- Funcionamiento sencillo mediante un solo botón.
+- Ayuda a mantener limpia y ordenada la carpeta de Descargas.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## ¿Cómo funciona?
 
-## Pruebas
+1. Ejecuta App.java.
+2. Pulsa el botón de organizar.
+3. La aplicación analiza los archivos de la carpeta de Descargas.
+4. Los archivos se mueven automáticamente a sus respectivas carpetas.
 
-Las pruebas manuales de Java se guardan en la carpeta `test`. Para comprobar el estilo y la acción del botón desde PowerShell, ejecuta desde la carpeta del proyecto:
+---
 
-```powershell
-javac -d bin src\estilos\EstiloBoton.java src\App.java test\PruebaApp.java
-java "-Djava.awt.headless=true" -cp bin PruebaApp
-```
-
-Si todo funciona, veras `Pruebas correctas`.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
