@@ -1,0 +1,7 @@
+Los proyectos que he hecho a lo largo del ciclo han sido en terminal, aunque mas que
+proyectos, eran ejercicios prácticos. La única parte que convertía el proyecto
+en algo visual y que se podía testear era con JavaFX (del cual tengo algún que otro proyecto
+en mi perfil de GitHub). 
+
+En este caso, no lo voy a usar ya que he descubierto que existe Swing, una biblioteca que permite crear aplicaciones de escritorio con ventanas, botones, textos, menús y formularios. Para mi aplicación que es muy sencilla, no me hace falta comerme mucho la cabeza, así que me viene como anillo al dedo.
+

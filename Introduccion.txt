@@ -1,0 +1,7 @@
+Este archivo sirve para explicar un poco tanto mi aprendizaje como el proceso a la hora de desarrollar esta aplicación.
+
+Parto de la base de que hace 3-4 meses aproximadamente terminé mis estudios de grado superior DAM (Desarrollo de Aplicaciones Multiplataforma), lo que me ha permitido obtener una base sólida en Java y otras herramientas. Aún así, como programador, siempre hay que seguir formandose ya que así funciona nuestro entorno.
+
+Y este es uno de esos casos. Como la IA está a la orden del día y vino para quedarse, para esta aplicación he empleado mis conocimientos, nuevos contenidos aprendidos y un agente de IA (Copilot). 
+
+Quiero recalcar que esta aplicación es mía de principio a fin. No está hecho con Vibe Coding ni nada de ese estilo.
